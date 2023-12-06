@@ -1,0 +1,22 @@
+header{
+    background-color: #2C3139;
+    list-style: none;
+}
+.topbar{
+    list-style: none;
+}
+.left_icon{
+   width: 64px; 
+   height: 64px;
+}
+.right_icon{
+    width: 44px; 
+   height: 44px;
+}
+body{
+    margin: none;
+    padding: none;
+}
+a{
+    text-decoration: none;
+}
